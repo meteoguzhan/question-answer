@@ -15,4 +15,4 @@
 
 ##  Arayüz
 
-![](https://i.hizliresim.com/NnPQ5P.png)
+![](https://i.ibb.co/tBrcBtd/Ads-z.png)
