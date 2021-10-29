@@ -1,18 +1,18 @@
-##  Laravel Soru Cevap Projesi
+## Question Answer Application
 
-- Yayınlanan Soruları Filtreleme
-- Bildirim Sistemi
-- Etiket Sistemi
-- Soru Kaydetme
-- Soru Arama
-- Doğru Cevap Sistemi
-- Cevap Puanlama Sistemi
+- Filtering Posted Questions
+- Notification System
+- Label System
+- Recording a Question
+- Question Search
+- Correct Answer System
+- Answer Scoring System
 
-## Kurulum
-- `php composer.phar install` veya `composer install`
+## Setup
+- `php composer.phar install` or `composer install`
 - `php artisan migrate`
 - `php artisan cache:clear`
 
-##  Arayüz
+## Interface
 
 ![](https://i.ibb.co/tBrcBtd/Ads-z.png)
